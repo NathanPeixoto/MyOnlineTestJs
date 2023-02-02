@@ -15,7 +15,7 @@ export function getStaticProps(){
     const staticDateString = staticDate.toUTCString();
     
     return {
-        props:{
+        props: {
             staticDateString
         }
     }
