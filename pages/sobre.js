@@ -8,7 +8,7 @@ function Sobre(){
             <h1>Sobre</h1>
             <Link href="/">
                 <a>Acessar página Home</a>
-                </Link> 
+            </Link> 
         </div>
     )
 }
